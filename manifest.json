@@ -1,11 +1,13 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "simple-calendar-plugin",
+	"name": "Simple Calendar Plugin",
+	"version": "1.0.0-SNAPSHOT",
 	"minAppVersion": "0.15.0",
 	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"author": "DonTMover",
+	"authorUrl": "https://github.com/DonTMover",
+	"fundingUrl": "https://github.com/sponsors/DonTMover",
 	"isDesktopOnly": false
+
+
 }

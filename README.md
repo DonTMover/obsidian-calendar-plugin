@@ -64,7 +64,7 @@ npm run build
 
 Если вы нашли баг или хотите предложить улучшение:
 - [Создать issue на GitHub](https://github.com/DonTMover/obsidian-calendar-plugin/issues)
-- Написать на email: [DonTMover@duck.com](mailto:DonTMover@duck.com)
+- Написать на email: [DonTMover@duck.com](mailto:dontmover@duck.com)
 
 
 
